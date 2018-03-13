@@ -1,4 +1,4 @@
-# examples
+# nuxt-leaflet example
 
 > Nuxt.js project
 
